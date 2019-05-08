@@ -1,0 +1,24 @@
+L [0] = 4 waga: 165 2 waga: 615 3 waga: 158 6 waga: 869 7 waga: 981 5 waga: 970 1 waga: 422 9 waga: 809 8 waga: 817 
+L [1] = 4 waga: 210 3 waga: 100 7 waga: 631 6 waga: 622 9 waga: 200 2 waga: 596 5 waga: 477 8 waga: 766 0 waga: 136 
+L [2] = 5 waga: 949 4 waga: 50 8 waga: 619 7 waga: 404 0 waga: 970 6 waga: 210 3 waga: 14 9 waga: 153 1 waga: 4 
+L [3] = 1 waga: 766 0 waga: 434 4 waga: 195 6 waga: 347 2 waga: 905 8 waga: 613 5 waga: 781 7 waga: 369 9 waga: 709 
+L [4] = 0 waga: 21 3 waga: 65 9 waga: 854 8 waga: 472 5 waga: 248 6 waga: 463 2 waga: 668 7 waga: 453 1 waga: 12 
+L [5] = 3 waga: 954 7 waga: 90 0 waga: 949 1 waga: 224 8 waga: 526 4 waga: 366 9 waga: 333 6 waga: 443 2 waga: 534 
+L [6] = 7 waga: 709 3 waga: 608 5 waga: 959 9 waga: 538 1 waga: 719 0 waga: 633 4 waga: 50 2 waga: 15 8 waga: 285 
+L [7] = 5 waga: 598 4 waga: 759 6 waga: 649 0 waga: 481 8 waga: 363 1 waga: 341 2 waga: 398 3 waga: 724 9 waga: 959 
+L [8] = 1 waga: 131 7 waga: 903 0 waga: 624 3 waga: 887 5 waga: 314 2 waga: 331 9 waga: 663 4 waga: 76 6 waga: 913 
+L [9] = 4 waga: 486 2 waga: 931 7 waga: 888 0 waga: 834 5 waga: 931 3 waga: 173 8 waga: 907 1 waga: 275 6 waga: 530 
+
+
+L [0] = 6 waga: 956 9 waga: 800 2 waga: 42 1 waga: 693 5 waga: 680 8 waga: 447 3 waga: 398 4 waga: 166 7 waga: 587 
+L [1] = 6 waga: 441 2 waga: 356 0 waga: 364 9 waga: 131 5 waga: 888 4 waga: 854 3 waga: 124 8 waga: 597 7 waga: 493 
+L [2] = 4 waga: 699 8 waga: 444 1 waga: 294 7 waga: 248 0 waga: 711 9 waga: 960 3 waga: 380 6 waga: 867 5 waga: 17 
+L [3] = 8 waga: 216 2 waga: 82 4 waga: 792 6 waga: 720 0 waga: 528 5 waga: 652 9 waga: 770 1 waga: 255 7 waga: 356 
+L [4] = 9 waga: 686 7 waga: 553 3 waga: 623 5 waga: 884 1 waga: 821 6 waga: 246 2 waga: 50 8 waga: 756 0 waga: 609 
+L [5] = 7 waga: 483 4 waga: 188 3 waga: 211 0 waga: 216 2 waga: 371 1 waga: 299 9 waga: 396 8 waga: 720 6 waga: 277 
+L [6] = 0 waga: 552 4 waga: 739 5 waga: 791 8 waga: 990 1 waga: 141 7 waga: 226 9 waga: 486 3 waga: 445 2 waga: 192 
+L [7] = 8 waga: 169 1 waga: 612 3 waga: 969 9 waga: 981 2 waga: 148 0 waga: 768 6 waga: 455 4 waga: 995 5 waga: 505 
+L [8] = 6 waga: 357 9 waga: 935 1 waga: 124 2 waga: 68 7 waga: 336 4 waga: 285 3 waga: 119 0 waga: 587 5 waga: 31 
+L [9] = 3 waga: 149 4 waga: 993 0 waga: 790 6 waga: 930 2 waga: 30 8 waga: 176 1 waga: 685 5 waga: 644 7 waga: 303 
+
+

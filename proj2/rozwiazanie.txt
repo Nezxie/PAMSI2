@@ -1,0 +1,24 @@
+Wierzcholek nr 0:   7  8  4  0  koszt sciezki: 460
+Wierzcholek nr 1:   7  1  koszt sciezki: 341
+Wierzcholek nr 2:   7  2  koszt sciezki: 398
+Wierzcholek nr 3:   7  2  3  koszt sciezki: 412
+Wierzcholek nr 4:   7  8  4  koszt sciezki: 439
+Wierzcholek nr 5:   7  5  koszt sciezki: 598
+Wierzcholek nr 6:   7  2  6  koszt sciezki: 608
+Wierzcholek nr 7:   7  koszt sciezki: 0
+Wierzcholek nr 8:   7  8  koszt sciezki: 363
+Wierzcholek nr 9:   7  1  9  koszt sciezki: 541
+
+
+Wierzcholek nr 0:   2  5  0  koszt sciezki: 233
+Wierzcholek nr 1:   2  1  koszt sciezki: 294
+Wierzcholek nr 2:   2  koszt sciezki: 0
+Wierzcholek nr 3:   2  5  3  koszt sciezki: 228
+Wierzcholek nr 4:   2  5  4  koszt sciezki: 205
+Wierzcholek nr 5:   2  5  koszt sciezki: 17
+Wierzcholek nr 6:   2  5  6  koszt sciezki: 294
+Wierzcholek nr 7:   2  7  koszt sciezki: 248
+Wierzcholek nr 8:   2  8  koszt sciezki: 444
+Wierzcholek nr 9:   2  5  9  koszt sciezki: 413
+
+
