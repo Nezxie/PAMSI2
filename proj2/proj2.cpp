@@ -349,10 +349,10 @@ int main()
 	double czas;
 	srand(time(NULL)); //zegar do losowania zalezny od godziny na komputerze ze by nie byly caly czas takie same grafy
 	double wypelnienie=1; //od 0 do 1 gdzie 1 to 100%
-	int wierzcholki=10;
+	int wierzcholki=50;
 	int krawedzie=(int)((wierzcholki*(wierzcholki-1))*wypelnienie); //nie jest /2 bo sa kierunkowe krawedzie (dwa razy wiecej)
-	int pierwszy=5; //od 0 do wierzcholki-1;
-	int ilosc = 2; //ile grafow generujemy
+	//int pierwszy=5; //od 0 do wierzcholki-1;
+	int ilosc = 100; //ile grafow generujemy
 	fstream plik;
 	ofstream graf("graf.txt");
 	ofstream wynik("rozwiazanie.txt");
